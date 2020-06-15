@@ -1,4 +1,4 @@
-//아니 이게 뭐냐고오오오옹 왜 안되냐고오 !!!! 
+// 바꿨는디?????
 public class Main {
 
 	public static void main(String[] args) {
