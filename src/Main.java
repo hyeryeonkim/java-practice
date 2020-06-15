@@ -5,6 +5,9 @@ public class Main {
 		String str = "나는 할 수 있다.";
 		System.out.println(str);
 		String str2 = "뭐니????";
+		String hi = "화요일도 화이팅 !!!!!!!!!!";
+		System.out.println(hi);
+		System.out.println("잘 내려 받았니???????????");
 	}
 	
 }
